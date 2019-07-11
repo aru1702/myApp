@@ -1,0 +1,26 @@
+{
+    "short_name": "My App",
+    "name": "My Very First Application",
+    "theme_color": "#1976d2",
+    "background_color": "#fafafa",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "assets/icons/icons-61.png",
+            "type": "image/png",
+            "sizes": "61x61"
+        },
+        {
+            "src": "assets/icons/icons-122.png",
+            "type": "image/png",
+            "sizes": "122x122"
+        },
+        {
+            "src": "assets/icons/icons-183.png",
+            "type": "image/png",
+            "sizes": "183x183"
+        }
+    ]
+}
