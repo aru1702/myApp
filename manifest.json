@@ -8,17 +8,17 @@
     "start_url": "/",
     "icons": [
         {
-            "src": "src/assets/icons/icons-61.png",
+            "src": "assets/icons/icons-61.png",
             "type": "image/png",
             "sizes": "61x61"
         },
         {
-            "src": "src/assets/icons/icons-122.png",
+            "src": "assets/icons/icons-122.png",
             "type": "image/png",
             "sizes": "122x122"
         },
         {
-            "src": "src/assets/icons/icons-183.png",
+            "src": "assets/icons/icons-183.png",
             "type": "image/png",
             "sizes": "183x183"
         }
