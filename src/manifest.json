@@ -1,9 +1,9 @@
 {
-    "short_name": "My App",
     "name": "My Very First Application",
+    "short_name": "My App",
     "theme_color": "#1976d2",
     "background_color": "#fafafa",
-    "display": "standalone",
+    "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
     "icons": [
